@@ -17,7 +17,7 @@ import women_banner from './Components/Assets/banner_women.png';
 function App() {
   return (
     <div>
-      <BrowserRouter basename='https://ajinkya8010.github.io/ECommerce-Frontend-React'>
+      <BrowserRouter>
       <Navbar/>
       <Routes>
         <Route path='/' element={<Shop/>}/>
