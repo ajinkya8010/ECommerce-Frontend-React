@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ECommerce-Frontend-React/static/css/main.80ed618f.css",
-    "main.js": "/ECommerce-Frontend-React/static/js/main.d9a9adac.js",
+    "main.js": "/ECommerce-Frontend-React/static/js/main.e63e72b3.js",
     "static/js/787.9e9f4ffd.chunk.js": "/ECommerce-Frontend-React/static/js/787.9e9f4ffd.chunk.js",
     "static/media/banner_kids.png": "/ECommerce-Frontend-React/static/media/banner_kids.fff815a581793a7380fb.png",
     "static/media/banner_women.png": "/ECommerce-Frontend-React/static/media/banner_women.5a27fc4e4533e57e4676.png",
@@ -47,11 +47,11 @@
     "static/media/hand_icon.png": "/ECommerce-Frontend-React/static/media/hand_icon.9c7487cecb600f30901b.png",
     "index.html": "/ECommerce-Frontend-React/index.html",
     "main.80ed618f.css.map": "/ECommerce-Frontend-React/static/css/main.80ed618f.css.map",
-    "main.d9a9adac.js.map": "/ECommerce-Frontend-React/static/js/main.d9a9adac.js.map",
+    "main.e63e72b3.js.map": "/ECommerce-Frontend-React/static/js/main.e63e72b3.js.map",
     "787.9e9f4ffd.chunk.js.map": "/ECommerce-Frontend-React/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80ed618f.css",
-    "static/js/main.d9a9adac.js"
+    "static/js/main.e63e72b3.js"
   ]
 }
