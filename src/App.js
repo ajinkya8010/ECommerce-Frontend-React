@@ -17,10 +17,10 @@ import women_banner from './Components/Assets/banner_women.png';
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename='/ECommerce-Frontend-React'>
       <Navbar/>
       <Routes>
-        <Route path='/' element={<Shop/>}/>
+        <Route exact path='/ECommerce-Frontend-React' element={<Shop/>}/>
         <Route path='/mens' element={<ShopCategory banner={men_banner} category="men"/>}/>
         <Route path='/womens' element={<ShopCategory banner={women_banner} category="women"/>}/>
         <Route path='/kids' element={<ShopCategory banner={kid_banner} category="kid"/>}/>
