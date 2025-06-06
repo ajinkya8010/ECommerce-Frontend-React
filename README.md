@@ -28,7 +28,7 @@ A responsive e-commerce frontend built with React and plain CSS, featuring produ
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:ajinkya8010/ECommerce-Frontend-React.git
+   git clone git@github.com:ajinkya8010/ecommerce-frontend-react.git
    ```
 
 2. Navigate to the project directory:
