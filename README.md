@@ -47,23 +47,9 @@ A responsive e-commerce frontend built with React and plain CSS, featuring produ
 
    ```bash
    npm start
-   The application will run at http://localhost:3000.
    ```
 
-## 📁 Project Structure
-
-pgsql
-Copy
-Edit
-ECommerce-Frontend-React/
-├── public/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── App.js
-│ └── index.js
-├── package.json
-└── README.md
+5. The application will run at http://localhost:3000.
 
 ## Deployed Link
 
