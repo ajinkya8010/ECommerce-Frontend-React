@@ -34,7 +34,7 @@ A responsive e-commerce frontend built with React and plain CSS, featuring produ
 2. Navigate to the project directory:
 
    ```bash
-   cd ECommerce-Frontend-React
+   cd ecommerce-frontend-react
    ```
 
 3. Install dependencies:
@@ -53,4 +53,4 @@ A responsive e-commerce frontend built with React and plain CSS, featuring produ
 
 ## Deployed Link
 
-https://ajinkya8010.github.io/ECommerce-Frontend-React
+https://ajinkya8010.github.io/ecommerce-frontend-react
