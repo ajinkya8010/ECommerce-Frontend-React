@@ -53,4 +53,4 @@ A responsive e-commerce frontend built with React and plain CSS, featuring produ
 
 ## Deployed Link
 
-https://ajinkya8010.github.io/ecommerce-frontend-react
+https://ecommerce-frontend-react-wsfn.onrender.com
