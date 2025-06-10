@@ -11,10 +11,12 @@ const Navbar = () => {
   const{getTotalCartItems} = useContext(ShopContext);
   return (
     <div className='navbar'>
-      <div className="nav-logo">
+      <a href="/" style={{textDecoration:'none'}}>
+        <div className="nav-logo">
         <img src={logo} alt="" />
         <p>BUY5</p>
       </div>
+      </a> 
       <ul className='nav-menu'>
         <li onClick={()=>{setMenu("shop")}}><Link style={{textDecoration:'none'}} to='/'>Shop</Link>{menu==="shop"?<hr/>:<></>}</li>
         <li onClick={()=>{setMenu("mens")}}><Link style={{textDecoration:'none'}}  to='/mens'>Men</Link>{menu==="mens"?<hr/>:<></>}</li>
