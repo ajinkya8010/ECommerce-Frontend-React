@@ -1,7 +1,7 @@
 
 import './App.css';
 import Navbar from './Components/Navbar/Navbar';
-import {HashRouter, Routes, Route} from 'react-router-dom';
+import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import Shop from './Pages/Shop';
 import ShopCategory from './Pages/ShopCategory';
 import Product from './Pages/Product';
@@ -17,7 +17,7 @@ import women_banner from './Components/Assets/banner_women.png';
 function App() {
   return (
     <div>
-      <HashRouter>
+      <BrowserRouter>
       <Navbar/>
       <Routes>
         <Route path='/' element={<Shop/>}/>
@@ -32,7 +32,7 @@ function App() {
 
       </Routes>
       <Footer/>
-      </HashRouter>
+      </BrowserRouter>
     </div>
   );
 }
