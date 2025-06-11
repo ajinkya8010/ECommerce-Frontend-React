@@ -22,10 +22,12 @@
 }
 
 .shopcategory-products{
+    max-width: 100%;
     margin: 20px 0px;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    gap:20px;
+    padding: 0px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
 }
 
 .bottom{
